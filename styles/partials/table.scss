@@ -1,0 +1,27 @@
+table{
+  width: 100%;
+    tr,td{
+        border: 1px solid black;
+  padding: 5px;
+    }
+    button{
+        background-color: rgb(13, 14, 13);
+  border: none;
+  padding: 5px;
+  color: rgb(255, 255, 255);
+  font-weight: 800;
+    }
+    .btn{
+      width: 20%;
+      input{
+      width: 40%;
+      margin: 0 13px;
+      }
+    }
+   .red{
+    background-color: rgb(251, 187, 187);
+   }
+   .green{
+    background-color: rgb(189, 244, 189);
+   }
+}
